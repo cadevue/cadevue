@@ -14,7 +14,7 @@ My activities lately has been:
 <br>
 
 [![Addin Munawwar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cadevue&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-### My Favorite List! <br><br>
+### My Favorite Tech List! <br><br>
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) 
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
