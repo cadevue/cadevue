@@ -6,7 +6,7 @@ A creative, passionate learner and software engineer specialized in video game a
 All of that, which I currently compiles all of the projects gradually while curating, refining, and redoing some of them. Oh, I also write more about those and other things on [my website](https://cadevue.com), so please do check it out!
 
 My activities lately has been:
-- 🌌 Working on **Solar Odyssey**, an educational VR-game about solar system \w emphasis on rendering optimization (Thesis).
+- 🌌 Working on **Solar Odyssey**, an educational VR-game about sun \w emphasis on realism and rendering optimization (Thesis).
 - 📚 Rework and refine some of the projects I made during my computer science study!
 - 😎 Discovering myself!
 
