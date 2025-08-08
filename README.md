@@ -1,14 +1,9 @@
 # Hi, Addin Here! 👋
-**`Cadevue | Software Engineer, Game and Web Development 👾🚀`**<br>
+**`Cadevue | Game and Web Development 👾🚀`**<br>
 
 A creative, passionate learner and software engineer specialized in video game and web development. I am currently studying at Bandung Institute of Technology and **will graduate soon** this year (2025). I've worked on multiple projects in a wide range of task during my CS studies, including video game, web development, graphics programming, AI/ML, desktop app, and even mobile app. 
 
 All of that, which I currently compiles all of the projects gradually while curating, refining, and redoing some of them. Oh, I also write more about those and other things on [my website](https://cadevue.com), so please do check it out!
-
-My activities lately has been:
-- 🌌 Working on an educational VR-game about sun \w emphasis on realism and rendering optimization (Thesis).
-- 📚 Rework and refine some of the projects I made during my computer science study!
-- 😎 Discovering myself!
 
 <br>
 
