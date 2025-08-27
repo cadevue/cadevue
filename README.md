@@ -5,6 +5,7 @@ A creative, passionate learner and software engineer specialized in video game a
 
 All of that, which I currently compiles all of the projects gradually while curating, refining, and redoing some of them. Oh, I also write more about those and other things on [my website](https://cadevue.com), so please do check it out!
 
+Currently working @ Strayflux Studio 🐺
 <br>
 
 [![Addin Munawwar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cadevue&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
