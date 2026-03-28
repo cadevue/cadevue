@@ -3,7 +3,7 @@
 
 A creative, passionate learner and software engineer specialized in video game and web development. I am currently studying at Bandung Institute of Technology and **will graduate soon** this year (2025). I've worked on multiple projects in a wide range of task during my CS studies, including video game, web development, graphics programming, AI/ML, desktop app, and even mobile app. 
 
-All of that, which I currently compiles all of the projects gradually while curating, refining, and redoing some of them. Oh, I also write more about those and other things on [my website](https://cadevue.com), so please do check it out!
+All of that, which I currently compiles all of the projects gradually while curating, refining, and redoing some of them. Oh, I also write more about those and other things on [my website](https://cadevue.dev), so please do check it out!
 
 Currently working @ Strayflux Studio 🐺
 <br>
